@@ -11,7 +11,7 @@
  * 	-- tốc độ truy xuất get() nhanh
  *  -- dễ sử dụng
  *  -- ngoài mảng 1 chiều còn có mảng 2-chiều, n-chiều.
- * 
+ *
  * 4. Xấu:
  * 	-- kích thước cố định
  *  -- các thao tác add(), remove() ở vị trí bất kì tốn chi phí cao [ O(n) ]
