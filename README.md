@@ -1,5 +1,5 @@
 <h1 align="center">
-  Tổng hợp các cấu trúc dữ liệu trong java
+  Synthesis of data structures in java
 </h1>
 
 - Array: [Simple Array](src/ds01_array/Array.java)
