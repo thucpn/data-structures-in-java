@@ -5,7 +5,7 @@
  * 	-- O(1)		: size(), isEmpty(), get(), addLast(), removeLast()
  * 	-- O(logn)	: binarySeach()
  * 	-- O(n)		: linearSearch(), add(), remove(), toString(), equals(), deepClone()
- * 	-- O(n^2)	: insertionSort()
+ * 	-- O(n^2)	: insertionSort() 
  * 
  * 3. Tốt:
  * 	-- tốc độ truy xuất get() nhanh
